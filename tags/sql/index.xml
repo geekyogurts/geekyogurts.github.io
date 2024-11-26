@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SQL on Yao&#39;s World</title>
+    <link>https://actuallyyao.com/tags/sql/</link>
+    <description>Recent content in SQL on Yao&#39;s World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Dec 2022 21:44:51 +0800</lastBuildDate><atom:link href="https://actuallyyao.com/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我是如何学习数据分析的</title>
+      <link>https://actuallyyao.com/posts/data/learn_data/</link>
+      <pubDate>Fri, 30 Dec 2022 21:44:51 +0800</pubDate>
+      
+      <guid>https://actuallyyao.com/posts/data/learn_data/</guid>
+      <description>2019 年毕业进入互联网行业，虽然不是技术岗位，但日常的工作离不开数据。 随着工作年限的提升，工作对我数据能力的要求也在迅速上升。从一开始使用公司内</description>
+    </item>
+    
+    <item>
+      <title>Useful SQL</title>
+      <link>https://actuallyyao.com/posts/data/sql_save/</link>
+      <pubDate>Fri, 14 Oct 2022 21:44:51 +0800</pubDate>
+      
+      <guid>https://actuallyyao.com/posts/data/sql_save/</guid>
+      <description>Window Function 先分举报量分层取各个举报原因对应的举报次数，然后通过开窗函数取每个举报量分层中举报次数排第一的举报原因 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17</description>
+    </item>
+    
+  </channel>
+</rss>
